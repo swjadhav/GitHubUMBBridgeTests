@@ -1,2 +1,2 @@
 # GitHubUMBBridgeTests
-This is Test repository for UMB Bridg
+This is Test repository for UMB Bridge test
